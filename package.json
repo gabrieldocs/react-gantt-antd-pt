@@ -1,6 +1,6 @@
 {
   "name": "react-gantt-antd-rocket-pt",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "A beautiful react gantt component with antd style.  \r This is a fork of [JSainsburyPLC/react-timelines](https://github.com/JSainsburyPLC/react-timelines)",
   "main": "lib/index.js",
   "scripts": {
